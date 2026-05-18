@@ -1,0 +1,19 @@
+# Data files
+data/
+*.db
+
+# Cache
+data/cache/*.xml
+
+# Logs
+data/*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
